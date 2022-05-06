@@ -17,7 +17,7 @@ Install or update all the packages
 ### Libraries and special packages used
 
 1. Swagger
-2. Seriglog
+2. Serilog
 3. FluentValidations
 4. AutoMapper
 
